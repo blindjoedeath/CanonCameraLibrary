@@ -1,0 +1,13 @@
+LIBRARY "CanonCamera.dll"
+EXPORTS
+set_path
+init_camera
+start_liveview
+stop_liveview
+take_photo
+dispose
+open_session
+close_session
+get_image_package
+is_liveview_ready
+is_photo_ready
